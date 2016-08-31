@@ -1,7 +1,19 @@
 html {
-  background-color: blue;
+  background-image: url("//lorempixel.com/1600/900/business");
 }
 
 .body {
   background-color: rgba(0, 0, 0, .4);
+  height: 50%;
+  margin: 25% 25% 25% 25%;
+  width: 50%;
+}
+
+.links_table {
+  width: 100%;
+}
+
+td a img {
+  height: 150px;
+  width: 150px;
 }
